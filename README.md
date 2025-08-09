@@ -5,9 +5,6 @@ This project demonstrates unsupervised learning using K-Means clustering on the 
 
 Main Steps in the Notebook
 
-Data Loading & Cleaning:
-The notebook loads and explores the data, examining numeric summaries and handling categorical variables.
-
 Exploratory Data Analysis:
 Visualizations (using Seaborn and Matplotlib) highlight relationships between key variables (e.g., tuition, enrollment, graduation rate, faculty ratio).
 
@@ -23,5 +20,4 @@ Cluster assignments are compared with the true “Private” labels.
 A confusion matrix and classification report are generated, indicating how well clustering aligns with the known public/private split.
 
 Visualization:
-Cluster results are visualized using scatter plots (e.g., Outstate Tuition vs. Grad Rate, colored by cluster or true label).
-Insights about cluster characteristics are discussed.
+Cluster results are visualized using scatter plots.
